@@ -2,7 +2,6 @@
 
 This folder contains the assignment 1 from each group member
 
-
 - Habib Khan
 - Priya Shaji
 - Vijaya Cherukuri
