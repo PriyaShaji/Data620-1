@@ -8,5 +8,5 @@
 networkx                  
 matplotlib                
 ads                       
-panda
+pandas
 ipycytoscape
